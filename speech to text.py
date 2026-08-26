@@ -1,3 +1,7 @@
+##this uses microsoft api to convert text to speech 
+##first install using pip asyncio and edge_tts
+#this will convert it to an mp3 file and download it install ur folder
+
 import asyncio
 from pathlib import Path
 
